@@ -1,4 +1,4 @@
-AE pull về, bật project trong IDE (Dùng python 3.12 trở xuống) xong chạy lần lượt 3 lệnh sau:
+AE pull về, bật project trong IDE (Dùng python 3.12 trở xuống) xong chạy lần lượt 3 lệnh sau trong terminal của IDE:
 
 python -m venv venv
 
